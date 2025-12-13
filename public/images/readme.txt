@@ -1,0 +1,1 @@
+Replace cover.pdf with a JPG/PNG named cover.jpg for the homepage image.
